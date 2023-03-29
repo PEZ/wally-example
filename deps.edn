@@ -1,0 +1,2 @@
+{:source-paths ["src"]
+ :deps {io.github.pfeodrippe/wally {:mvn/version "0.0.2"}}}

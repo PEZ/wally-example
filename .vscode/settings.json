@@ -1,0 +1,17 @@
+{
+  "editor.lightbulb.enabled": false,
+  "editor.hover.delay": 1300,
+  "calva.autoConnectRepl": true,
+  "calva.replConnectSequences": [
+    {
+      "name": "Wally Example",
+      "autoSelectForJackIn": true,
+      "autoSelectForConnect": true,
+      "projectType": "deps.edn"
+    }
+  ],
+  "cSpell.words": [
+    "Clojars",
+    "jsonista"
+  ]
+}
