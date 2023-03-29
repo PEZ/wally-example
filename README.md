@@ -18,7 +18,7 @@ The reset of the forms will have you clicking around and enter things on that pa
 
 ## How to Start the project REPL and connect the editor?
 
-This is not a guide teaching you how to do this. If you use Calva, it is only one step: Use the command: **Calva: Start the Project and Connect (a.k.a. Jack-in)**. The prerequisites for this are:
+This is not a guide teaching you how to do this. If you use [Calva](https://calva.io), it is only one step: Use the command: **Calva: Start the Project and Connect (a.k.a. Jack-in)**. The prerequisites for this are:
 
 1. Have Java installed (I don't dare point at a way to do this, but I like [sdk-man](https://sdkman.io/) a lot myself)
 1. Have [VS Code installed](https://code.visualstudio.com/download)
