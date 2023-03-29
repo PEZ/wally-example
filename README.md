@@ -12,6 +12,8 @@ Wally is a [Clojure](https://clojure.org) wrapper for [Playwright](https://playw
 
 Yes, that's all there is to it. When you evaluate the first form in the Rich Comment of the example, Wally (or if it is Playwright, idk) will download Chromium and drivers and things, if needed. Chromium will start and open the jsonista library page on Clojars.
 
+![image](https://user-images.githubusercontent.com/30010/228603083-9a800133-e5a2-4c81-9116-756aa92512ba.png)
+
 The reset of the forms will have you clicking around and enter things on that page. Place the opened Chromium window and your editor window side by side.
 
 ## How to Start the project REPL and connect the editor?
